@@ -1,3 +1,6 @@
+//* exporting without the name, with the help of default export.
+//* this kind of export is not possible for named export. 
+
 export default [
   {
     id: 1,
